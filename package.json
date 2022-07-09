@@ -1,0 +1,21 @@
+{
+    "name": "silence",
+    "displayName": "silence",
+    "description": "A dark theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Silence",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Silence-color-theme.json"
+            }
+        ]
+    }
+}
