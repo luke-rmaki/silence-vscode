@@ -1,6 +1,6 @@
 {
-  "name": "silence",
-  "displayName": "silence",
+  "name": "silence-vscode",
+  "displayName": "Silence",
   "description": "A dark theme for vscode",
   "version": "0.1.0",
   "publisher": "lukermaki",
