@@ -150,7 +150,41 @@
     "editorLineNumber.foreground": "#60708c",
     "editorLineNumber.activeForeground": "#c2cadc",
     "editorCursor.foreground": "#a3f0f3",
-    "editorCursor.background": "#0c1018"
+    "editorCursor.background": "#0c1018",
+
+    // * STATUS BAR
+    "statusBar.background": "#131821",
+    "statusBar.foreground": "#c2cadc",
+    // "statusBar.border":
+    "statusBar.debuggingBackground": "#901927",
+    "statusBar.debuggingForeground": "#c2cadc"
+    // "statusBar.debuggingBorder":
+    // "statusBar.noFolderForeground":
+    // "statusBar.noFolderBackground":
+    // "statusBar.noFolderBorder":
+    // "statusBarItem.activeBackground":
+    // "statusBarItem.hoverBackground":
+    // "statusBarItem.prominentForeground":
+    // "statusBarItem.prominentBackground":
+    // "statusBarItem.prominentHoverBackground":
+    // "statusBarItem.remoteBackground":
+    // "statusBarItem.remoteForeground":
+    // "statusBarItem.errorBackground":
+    // "statusBarItem.errorForeground":
+    // "statusBarItem.warningBackground":
+    // "statusBarItem.warningForeground":
+    // "statusBarItem.compactHoverBackground":
+    // "statusBarItem.focusBorder":
+    // "statusBarItem.settingsProfilesForeground":
+    // "statusBarItem.settingsProfilesBackground":
+    // "statusBar.focusBorder":
+
+    // * TITLE BAR
+    // "titleBar.activeBackground":
+    // "titleBar.activeForeground":
+    // "titleBar.inactiveBackground":
+    // "titleBar.inactiveForeground":
+    // "titleBar.border": "#4ca376"
   },
   "tokenColors": [
     {
