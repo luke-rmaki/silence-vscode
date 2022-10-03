@@ -2,8 +2,8 @@
   "name": "silence",
   "displayName": "silence",
   "description": "A dark theme for vscode",
-  "version": "0.0.1",
-  "publisher": "Luke Ruokaismäki",
+  "version": "0.1.0",
+  "publisher": "lukermaki",
   "engines": {
     "vscode": "^1.69.0"
   },
